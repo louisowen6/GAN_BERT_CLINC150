@@ -1,0 +1,19 @@
+1) ganbert.py line 24, add input GeneralProcessor
+
+2) ganbert.py line 131, add FLAGS pred_OOS
+
+3) ganbert.py line 293, add if-else for shuffling the data
+
+4) ganbert.py line 623-626, add if-else evaluating OOS
+
+5) ganbert.py line 639, add taskname
+
+6) ganbert.py line 665, add datadir in getlabel
+
+7) ganbert.py line 668, make vocab file as default
+
+8) ganbert.py line 741-745, add eval on OOS test data
+
+9) ganbert.py line 797-842, add predict OOS
+
+10) data_processors.py line 133-187, add class GeneralProcessor 

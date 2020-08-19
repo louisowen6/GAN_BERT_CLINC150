@@ -1,8 +1,6 @@
 # Semi-supervised Intent Classification with GAN-BERT
 
-![alt text](https://github.com/louisowen6/GAN_BERT_CLINC150/blob/master/ganbert.jpg?raw=true)
-
-This is the code implementation of TDS Article "Semi-supervised Intent Classification with GAN-BERT". The CLINC150 data is provided [here](https://github.com/clinc/oos-eval). The codes used are based on the [official repo of GAN-BERT](https://github.com/crux82/ganbert/tree/ff1a87548e8d8f11da468375d317e918c7162e20), with some minor changes and additions. All of the changes in codes are listed [here](https://github.com/louisowen6/GAN_BERT_CLINC150/blob/master/changes.txt)
+This is the code implementation of TDS Article "[Semi-supervised Intent Classification with GAN-BERT](https://towardsdatascience.com/semi-supervised-intent-classification-with-gan-bert-934d8659bca2)". The CLINC150 data is provided [here](https://github.com/clinc/oos-eval). The codes used are based on the [official repo of GAN-BERT](https://github.com/crux82/ganbert/tree/ff1a87548e8d8f11da468375d317e918c7162e20), with some minor changes and additions. All of the changes in codes are listed [here](https://github.com/louisowen6/GAN_BERT_CLINC150/blob/master/changes.txt)
 
 # Requirements
 
